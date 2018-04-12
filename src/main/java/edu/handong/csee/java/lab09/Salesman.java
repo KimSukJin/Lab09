@@ -4,6 +4,7 @@ package edu.handong.csee.java.lab09;
  * This class has some information about salesmen. Also it has 4 methods that
  * getting their names, sales and setting their names, sales.
  * 
+ * 
  * @author KimSukJin
  * @since 180412
  *

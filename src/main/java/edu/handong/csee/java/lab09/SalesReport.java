@@ -3,6 +3,7 @@ package edu.handong.csee.java.lab09;
 import java.util.Scanner;
 /**
  * This class gets salesmen' informations and shows us guy who is the best seller.
+ * 
  * @since 180412
  * @author KimSukJin
  *
